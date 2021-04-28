@@ -9,7 +9,7 @@ body{
 .registration-form{
     font-size: 20px;
     text-align: center;
-    top:50%;
+    margin-top:30px;
     
 }
 .registration-form input{
