@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:Verdana;
+}
+body{
+    background:linear-gradient(90deg,rgb(57, 54, 245),rgb(236, 32, 76));
+}
+.registration-form{
+    font-size: 20px;
+    text-align: center;
+    top:50%;
+    
+}
+.registration-form input{
+ 
+ padding: 10px;
+ font-size: 18px;
+ 
+
+}
+.btn{
+    padding: 5px 10px;
+}
